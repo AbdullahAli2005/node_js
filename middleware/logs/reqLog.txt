@@ -1,0 +1,8 @@
+20250712	14:38:45	bde1bcf3-eb87-4e64-896a-05975d222749	GET	undefined	/
+20250712	14:38:45	d4b83940-a2d8-44b0-8a9e-b55fd5d6ed14	GET	undefined	/css/style.css
+20250712	14:49:25	bef26f82-fa34-487b-b954-1ebf5d70e79c	OPTIONS	https://www.google.com	/
+20250712	14:49:25	85179cd9-1e52-4556-9d09-a5d10798e285	GET	https://www.google.com	/
+20250712	15:00:20	1c2d1e21-930f-4961-8329-5d12e178c4ef	OPTIONS	https://www.google.com	/
+20250712	15:00:20	264d40d7-d3a4-4374-b9bb-1207dde340ae	GET	https://www.google.com	/
+20250712	15:05:00	e15c60d6-10a0-4876-a63c-2132e33ec43d	GET	undefined	/
+20250712	15:05:00	e6f3e377-608e-4776-b657-5f7da54a5803	GET	undefined	/css/style.css
